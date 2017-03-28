@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>3.5.3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>在方法之内定义静态变量.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>在方法之外定义静态变量.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>静态变量的重要特性.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C0FD1FB01E826EE700261EAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0FD1FBE1E826EFC00261EAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0FD1FCC1E826F3C00261EAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0FD1FDA1E82709600261EAE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
